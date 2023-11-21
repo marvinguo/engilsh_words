@@ -1,0 +1,391 @@
+{
+    "compute_red16": {
+        "red1": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 1,
+            "max2": 8
+        },
+        "red2": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 5,
+            "max2": 16
+        },
+        "red3": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 7,
+            "max2": 18
+        },
+        "red4": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 11,
+            "max2": 27
+        },
+        "red5": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 15,
+            "max2": 31
+        },
+        "red6": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 20,
+            "max2": 32
+        }
+    },
+    "compute_gap": {
+        "red1": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 26,
+            "max2": 40
+        },
+        "red2": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 19,
+            "max2": 29
+        },
+        "red3": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 25,
+            "max2": 42
+        },
+        "red4": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 12,
+            "max2": 22
+        },
+        "red5": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 21,
+            "max2": 44
+        },
+        "red6": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 3,
+            "max2": 7
+        },
+        "red7": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 2,
+            "max2": 8
+        },
+        "red8": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 8
+        },
+        "red9": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 4,
+            "max2": 13
+        },
+        "red10": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 0,
+            "max2": 5
+        }
+    },
+    "compute_basic_item": {
+        "layout1": {
+            "checked": false,
+            "min": 70,
+            "max": 140
+        },
+        "layout2": {
+            "checked": false,
+            "min": 1,
+            "max": 7
+        },
+        "layout3": {
+            "checked": false,
+            "min": 1,
+            "max": 5
+        },
+        "layout4": {
+            "checked": false,
+            "min": 20,
+            "max": 30
+        },
+        "layout5": {
+            "checked": false,
+            "min": 0,
+            "max": 0
+        },
+        "in_tail_layout": {
+            "checked": false,
+            "values": []
+        },
+        "not_tail_layout": {
+            "checked": false,
+            "values": []
+        }
+    },
+    "compute_column0_item": {
+        "layout1": {
+            "checked": false,
+            "min": 0,
+            "max": 3
+        },
+        "layout2": {
+            "checked": false,
+            "min": 0,
+            "max": 3
+        },
+        "layout3": {
+            "checked": false,
+            "min": 0,
+            "max": 3
+        },
+        "layout4": {
+            "checked": false,
+            "min": 0,
+            "max": 3
+        },
+        "layout5": {
+            "checked": false,
+            "min": 0,
+            "max": 3
+        },
+        "red1": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 2,
+            "max2": 4
+        },
+        "red2": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 6,
+            "max2": 13
+        },
+        "layout9": {
+            "checked1": false,
+            "checked2": false
+        }
+    },
+    "compute_fix_item": {
+        "layout1": {
+            "checked": false
+        },
+        "layout2": {
+            "checked": false
+        },
+        "layout3": {
+            "checked": false
+        },
+        "layout4": {
+            "checked": false
+        },
+        "layout5": {
+            "checked": false
+        },
+        "layout6": {
+            "checked": false
+        },
+        "layout7": {
+            "checked": false,
+            "min": 1,
+            "max": 3
+        },
+        "layout8": {
+            "checked": false,
+            "min": 0,
+            "max": 3
+        },
+        "layout_position1": {
+            "checked": false,
+            "values": []
+        },
+        "layout_must": {
+            "checked": false,
+            "values": []
+        }
+    },
+    "compute_predict_item": {
+        "layout0": {
+            "checked": true
+        },
+        "layout1": {
+            "checked1": true,
+            "checked2": false,
+            "min1": 7,
+            "max1": 10,
+            "min2": 1,
+            "max2": 5
+        },
+        "layout2": {
+            "checked1": true,
+            "checked2": false,
+            "min1": 4,
+            "max1": 6,
+            "min2": 4,
+            "max2": 6
+        },
+        "layout3": {
+            "checked1": true,
+            "checked2": false,
+            "min1": 0,
+            "max1": 4,
+            "min2": 0,
+            "max2": 3
+        },
+        "layout4": {
+            "checked1": false,
+            "checked2": false,
+            "min1": 3,
+            "max1": 3,
+            "min2": 3,
+            "max2": 3
+        },
+        "layout5": {
+            "checked1": true,
+            "checked2": false,
+            "min1": 10,
+            "max1": 20,
+            "min2": 1,
+            "max2": 9
+        }
+    },
+    "compute_less_row": {
+        "less5": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 2,
+            "max2": 25
+        },
+        "less8": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 4,
+            "max2": 16
+        },
+        "less9": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 2,
+            "max2": 10
+        },
+        "less10": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 3
+        },
+        "row1": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 0,
+            "max2": 6
+        },
+        "row2": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 18,
+            "max2": 34
+        },
+        "row3": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 8,
+            "max2": 26
+        },
+        "row4": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 1,
+            "max2": 4
+        }
+    }
+}
