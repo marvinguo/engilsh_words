@@ -94,13 +94,13 @@
         },
         "red2": {
             "checked": false,
-            "checked1": true,
-            "min1": 24,
-            "max1": 24,
+            "checked1": false,
+            "min1": 22,
+            "max1": 27,
             "checked2": false,
             "min2": 22,
             "max2": 27,
-            "ana": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\nli.unchecked::marker { content: \"\\2610\"; }\nli.checked::marker { content: \"\\2612\"; }\n</style></head><body style=\" font-family:'\u5fae\u8f6f\u96c5\u9ed1'; font-size:9pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_4___10__    13   0  [3, 0, 0, 0, 0, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 26)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_5___10__    11   0  [3, 1, 1, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 26)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_2___10__    11   0  [3, 1, 1, 0, 1, 1, 0, 1, 9, 1, 0]  (24, 25)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_3___10__    11   4  [1, 1, 0, 1, 1, 0, 1, 5, 3, 1, 0]  (24, 26)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_4___10__    11   0  [3, 1, 1, 0, 1, 1, 0, 1, 9, 1, 0]  (24, 27)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_3___10__    11   4  [1, 1, 0, 1, 1, 0, 1, 5, 3, 1, 0]  (24, 24)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_4___10__    11   4  [1, 1, 0, 3, 0, 1, 4, 0, 3, 1, 0]  (24, 24)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_5___10__    11   4  [1, 1, 0, 1, 1, 3, 3, 0, 3, 1, 0]  (24, 24)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_3___10__    10   4  [1, 1, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 27)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_5___10__    10   4  [1, 1, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 26)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_1___10__    10   4  [1, 1, 0, 3, 0, 1, 5, 3, 1, 0]  (24, 25)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_2___10__    10   4  [1, 1, 0, 3, 0, 7, 0, 2, 1, 0]  (23, 24)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_2___10__    9   4  [1, 1, 0, 1, 1, 0, 11, 1, 0]  (22, 24)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_1___10__    9   6  [1, 2, 1, 0, 1, 6, 2, 1, 0]  (23, 24)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_1___10__    8   6  [1, 0, 1, 1, 0, 11, 1, 0]  (24, 25)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">part_in:(22, 27), all_in:(24, 24), all_out:(22, 27)</p>\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>",
+            "ana": "400_4___10__    13   0  [3, 0, 0, 0, 0, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 26)\n400_5___10__    11   0  [3, 1, 1, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 26)\n600_2___10__    11   0  [3, 1, 1, 0, 1, 1, 0, 1, 9, 1, 0]  (24, 25)\n600_3___10__    11   4  [1, 1, 0, 1, 1, 0, 1, 5, 3, 1, 0]  (24, 26)\n600_4___10__    11   0  [3, 1, 1, 0, 1, 1, 0, 1, 9, 1, 0]  (24, 27)\n1000_3___10__    11   4  [1, 1, 0, 1, 1, 0, 1, 5, 3, 1, 0]  (24, 24)\n1000_4___10__    11   4  [1, 1, 0, 3, 0, 1, 4, 0, 3, 1, 0]  (24, 24)\n1000_5___10__    11   4  [1, 1, 0, 1, 1, 3, 3, 0, 3, 1, 0]  (24, 24)\n400_3___10__    10   4  [1, 1, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 27)\n600_5___10__    10   4  [1, 1, 0, 1, 1, 0, 7, 3, 1, 0]  (24, 26)\n1000_1___10__    10   4  [1, 1, 0, 3, 0, 1, 5, 3, 1, 0]  (24, 25)\n1000_2___10__    10   4  [1, 1, 0, 3, 0, 7, 0, 2, 1, 0]  (23, 24)\n400_2___10__    9   4  [1, 1, 0, 1, 1, 0, 11, 1, 0]  (22, 24)\n600_1___10__    9   6  [1, 2, 1, 0, 1, 6, 2, 1, 0]  (23, 24)\n400_1___10__    8   6  [1, 0, 1, 1, 0, 11, 1, 0]  (24, 25)\npart_in:(22, 27), all_in:(24, 24), all_out:(22, 27)\n",
             "range1": 22,
             "range2": 27
         },
@@ -112,19 +112,19 @@
             "checked2": false,
             "min2": 27,
             "max2": 42,
-            "ana": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\nli.unchecked::marker { content: \"\\2610\"; }\nli.checked::marker { content: \"\\2612\"; }\n</style></head><body style=\" font-family:'\u5fae\u8f6f\u96c5\u9ed1'; font-size:9pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_4___11__    13   1  [3, 0, 0, 1, 0, 0, 7, 1, 0, 1, 1, 1, 0]  (27, 42)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_1___11__    13   1  [1, 0, 0, 1, 1, 1, 7, 1, 0, 1, 1, 1, 0]  (27, 27)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_2___11__    12   1  [0, 1, 0, 1, 1, 1, 9, 0, 1, 1, 1, 0]  (27, 31)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_5___11__    12   1  [3, 1, 1, 1, 5, 1, 1, 0, 1, 1, 1, 0]  (27, 30)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_5___11__    11   1  [3, 0, 0, 1, 1, 7, 2, 1, 1, 1, 0]  (27, 41)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_3___11__    11   1  [1, 1, 1, 1, 1, 7, 1, 0, 1, 1, 2]  (27, 38)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_4___11__    11   1  [3, 1, 1, 1, 5, 3, 0, 1, 1, 1, 0]  (27, 36)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_3___11__    10   1  [3, 0, 0, 1, 1, 10, 1, 1, 1, 0]  (27, 35)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_2___11__    10   1  [3, 1, 1, 1, 0, 6, 2, 3, 1, 0]  (27, 39)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_3___11__    10   1  [3, 1, 1, 1, 7, 1, 0, 1, 1, 2]  (27, 42)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_2___11__    9   1  [2, 0, 1, 1, 1, 10, 3, 1, 0]  (27, 37)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_4___11__    9   1  [3, 1, 1, 1, 9, 0, 3, 1, 0]  (27, 37)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_5___11__    9   1  [3, 1, 1, 1, 10, 1, 1, 1, 0]  (27, 37)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_1___11__    8   1  [3, 1, 1, 1, 10, 3, 1, 0]  (27, 34)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_1___11__    8   1  [3, 1, 1, 1, 7, 2, 3, 2]  (27, 33)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">part_in:(31, 42), all_in:(27, 30), all_out:(27, 42)</p>\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>",
+            "ana": "600_4___11__    13   1  [3, 0, 0, 1, 0, 0, 7, 1, 0, 1, 1, 1, 0]  (27, 42)\n1000_1___11__    13   1  [1, 0, 0, 1, 1, 1, 7, 1, 0, 1, 1, 1, 0]  (27, 27)\n1000_2___11__    12   1  [0, 1, 0, 1, 1, 1, 9, 0, 1, 1, 1, 0]  (27, 31)\n1000_5___11__    12   1  [3, 1, 1, 1, 5, 1, 1, 0, 1, 1, 1, 0]  (27, 30)\n600_5___11__    11   1  [3, 0, 0, 1, 1, 7, 2, 1, 1, 1, 0]  (27, 41)\n1000_3___11__    11   1  [1, 1, 1, 1, 1, 7, 1, 0, 1, 1, 2]  (27, 38)\n1000_4___11__    11   1  [3, 1, 1, 1, 5, 3, 0, 1, 1, 1, 0]  (27, 36)\n400_3___11__    10   1  [3, 0, 0, 1, 1, 10, 1, 1, 1, 0]  (27, 35)\n600_2___11__    10   1  [3, 1, 1, 1, 0, 6, 2, 3, 1, 0]  (27, 39)\n600_3___11__    10   1  [3, 1, 1, 1, 7, 1, 0, 1, 1, 2]  (27, 42)\n400_2___11__    9   1  [2, 0, 1, 1, 1, 10, 3, 1, 0]  (27, 37)\n400_4___11__    9   1  [3, 1, 1, 1, 9, 0, 3, 1, 0]  (27, 37)\n400_5___11__    9   1  [3, 1, 1, 1, 10, 1, 1, 1, 0]  (27, 37)\n400_1___11__    8   1  [3, 1, 1, 1, 10, 3, 1, 0]  (27, 34)\n600_1___11__    8   1  [3, 1, 1, 1, 7, 2, 3, 2]  (27, 33)\npart_in:(31, 42), all_in:(27, 30), all_out:(27, 42)\n",
             "range1": 27,
             "range2": 42
         },
         "red4": {
-            "checked": true,
-            "checked1": true,
+            "checked": false,
+            "checked1": false,
             "min1": 9,
-            "max1": 16,
+            "max1": 18,
             "checked2": false,
             "min2": 9,
             "max2": 18,
-            "ana": "<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.0//EN\" \"http://www.w3.org/TR/REC-html40/strict.dtd\">\n<html><head><meta name=\"qrichtext\" content=\"1\" /><meta charset=\"utf-8\" /><style type=\"text/css\">\np, li { white-space: pre-wrap; }\nhr { height: 1px; border-width: 0; }\nli.unchecked::marker { content: \"\\2610\"; }\nli.checked::marker { content: \"\\2612\"; }\n</style></head><body style=\" font-family:'\u5fae\u8f6f\u96c5\u9ed1'; font-size:9pt; font-weight:400; font-style:normal;\">\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_2___12__    9   1  [0, 4, 5, 9, 0, 0, 0, 1, 0]  (9, 14)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_5___12__    9   1  [0, 4, 5, 1, 8, 0, 0, 1, 0]  (9, 16)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_2___12__    9   2  [4, 1, 3, 1, 7, 1, 0, 1, 0]  (9, 15)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_1___12__    8   2  [6, 2, 0, 1, 9, 0, 1, 0]  (9, 16)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_2___12__    8   2  [6, 3, 1, 7, 1, 0, 1, 0]  (9, 15)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_5___12__    8   1  [0, 6, 3, 1, 9, 0, 0, 1]  (9, 16)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_3___12__    8   1  [0, 1, 8, 1, 2, 6, 2, 0]  (9, 14)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_3___12__    8   2  [0, 5, 3, 1, 9, 0, 1, 0]  (9, 16)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_5___12__    8   2  [4, 1, 3, 1, 9, 0, 1, 0]  (9, 16)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_4___12__    7   1  [0, 6, 3, 1, 9, 1, 1]  (9, 18)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">400_3___12__    6   9  [3, 1, 9, 0, 0, 1]  (9, 18)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_1___12__    6   2  [10, 10, 0, 0, 1, 0]  (9, 13)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">600_4___12__    6   1  [0, 10, 1, 8, 3, 0]  (9, 15)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_1___12__    6   2  [6, 3, 11, 0, 1, 0]  (9, 16)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">1000_4___12__    6   2  [6, 3, 1, 9, 0, 2]  (9, 16)</p>\n<p style=\" margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\">part_in:(14, 18), all_in:(9, 13), all_out:(9, 18)</p>\n<p style=\"-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;\"><br /></p></body></html>",
+            "ana": "600_2___12__    9   1  [0, 4, 5, 9, 0, 0, 0, 1, 0]  (9, 14)\n600_5___12__    9   1  [0, 4, 5, 1, 8, 0, 0, 1, 0]  (9, 16)\n1000_2___12__    9   2  [4, 1, 3, 1, 7, 1, 0, 1, 0]  (9, 15)\n400_1___12__    8   2  [6, 2, 0, 1, 9, 0, 1, 0]  (9, 16)\n400_2___12__    8   2  [6, 3, 1, 7, 1, 0, 1, 0]  (9, 15)\n400_5___12__    8   1  [0, 6, 3, 1, 9, 0, 0, 1]  (9, 16)\n600_3___12__    8   1  [0, 1, 8, 1, 2, 6, 2, 0]  (9, 14)\n1000_3___12__    8   2  [0, 5, 3, 1, 9, 0, 1, 0]  (9, 16)\n1000_5___12__    8   2  [4, 1, 3, 1, 9, 0, 1, 0]  (9, 16)\n400_4___12__    7   1  [0, 6, 3, 1, 9, 1, 1]  (9, 18)\n400_3___12__    6   9  [3, 1, 9, 0, 0, 1]  (9, 18)\n600_1___12__    6   2  [10, 10, 0, 0, 1, 0]  (9, 13)\n600_4___12__    6   1  [0, 10, 1, 8, 3, 0]  (9, 15)\n1000_1___12__    6   2  [6, 3, 11, 0, 1, 0]  (9, 16)\n1000_4___12__    6   2  [6, 3, 1, 9, 0, 2]  (9, 16)\npart_in:(14, 18), all_in:(9, 13), all_out:(9, 18)\n",
             "range1": 9,
             "range2": 18
         },
@@ -243,9 +243,9 @@
     },
     "compute_column0_item": {
         "layout1": {
-            "checked": true,
+            "checked": false,
             "min": 0,
-            "max": 2
+            "max": 3
         },
         "layout2": {
             "checked": false,
@@ -341,13 +341,11 @@
         "layout8": {
             "checked": true,
             "min": 1,
-            "max": 2
+            "max": 3
         },
         "layout_must": {
-            "checked": true,
-            "values": [
-                9
-            ]
+            "checked": false,
+            "values": []
         }
     },
     "compute_predict_item": {
@@ -496,24 +494,6 @@
     "compute_missing_range": [
         {
             "checked": false,
-            "title": "9",
-            "min": 0,
-            "max": 0,
-            "position1": [
-                18,
-                13,
-                24,
-                28,
-                4,
-                11,
-                20,
-                27,
-                29,
-                32
-            ]
-        },
-        {
-            "checked": false,
             "title": "20",
             "min": 0,
             "max": 0,
@@ -532,62 +512,20 @@
         },
         {
             "checked": true,
-            "title": "47",
+            "title": "41",
             "min": 0,
             "max": 0,
             "position1": [
-                3,
                 9,
-                14,
-                13,
-                19,
                 24,
                 28,
                 29,
-                30,
-                4
-            ]
-        },
-        {
-            "checked": false,
-            "title": "40",
-            "min": 0,
-            "max": 0,
-            "position1": [
-                19,
-                29,
-                8,
-                14,
+                3,
                 4,
                 7,
-                9,
-                22,
-                24,
-                2
-            ]
-        },
-        {
-            "checked": true,
-            "title": "",
-            "min": 4,
-            "max": 5,
-            "position1": [
-                4,
-                7,
-                9,
-                10,
-                12,
-                13,
-                14,
-                16,
-                17,
                 18,
-                19,
-                21,
-                22,
-                24,
-                27,
-                29
+                23,
+                27
             ]
         }
     ]
