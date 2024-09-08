@@ -1,0 +1,28 @@
+bravo1 A ('3_16', 66)
+bravo1 A ('3_13', 66)
+bravo1 A ('3_9', 40)
+bravo1 A ('3_1', 43)
+bravo1 A ('4_7', 44)
+
+bravo1 D ('2_9', 64)
+bravo1 D ('3_15', 69)
+bravo1 D ('5_6', 63)
+
+
+bravo2 A ('2_4', 63)
+bravo2 A ('2_2', 50)
+bravo2 A ('2_3', 47)
+bravo2 A ('4_6', 66)
+bravo2 A ('5_2', 63)
+bravo2 D ('1_1', 66)
+bravo2 D ('1_2', 39)
+bravo2 D ('2_2', 64)
+bravo2 D ('2_5', 45)
+bravo2 D ('3_1', 71)
+bravo2 D ('3_2', 48)
+bravo2 D ('3_3', 49)
+
+bravo3 A ('2_5', 68)
+bravo3 A ('5_6', 68)
+bravo3 D ('1_3', 68)
+bravo3 D ('3_8', 71)
