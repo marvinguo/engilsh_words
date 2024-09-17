@@ -1,0 +1,455 @@
+index: 1
+27
+average: 9.3
+bravos:
+bravo1.D5_6 62_2 (27)
+bravo2.A6_1 55_15 (27)
+bravo3.A6_1 55_15 (27)
+bravo2.D5_1 50_9 (27)
+bravo1.A5_1 50_8 (27)
+bravo3.D5_1 41_4 (27)
+bravo3.D6_7 39_13 (27)
+bravo2.A5_13 36_4 (27)
+bravo3.A5_11 34_1 (27)
+bravo2.D6_11 22_22 (27)
+
+index: 2
+32
+average: 8.5
+bravos:
+bravo1.A5_6 52_12 (32)
+bravo1.D5_1 43_5 (32)
+
+index: 3
+33
+average: 7.5
+bravos:
+bravo3.A6_2 61_8 (33)
+bravo2.A6_2 60_8 (33)
+bravo1.A6_1 56_14 (33)
+bravo3.D6_6 46_4 (33)
+bravo1.D6_2 41_11 (33)
+bravo2.D6_10 28_0 (33)
+
+index: 4
+26
+average: 6.8
+bravos:
+bravo3.D6_5 65_2 (26)
+bravo2.D5_4 59_3 (26)
+bravo1.A5_2 58_0 (26)
+bravo3.D5_5 53_9 (26)
+bravo2.A6_3 51_8 (26)
+bravo3.A6_3 49_8 (26)
+bravo1.D5_5 43_1 (26)
+bravo3.A5_7 42_4 (26)
+bravo2.A5_10 36_16 (26)
+bravo2.D6_9 33_17 (26)
+
+index: 5
+31
+average: 6.75
+bravos:
+bravo1.D6_1 58_2 (31)
+bravo2.D6_4 55_3 (31)
+bravo1.A6_2 54_8 (31)
+bravo3.D5_7 53_12 (31)
+bravo1.A5_3 53_2 (31)
+bravo1.D5_4 52_4 (31)
+bravo3.D6_1 50_4 (31)
+bravo2.D5_7 49_9 (31)
+bravo3.A5_5 49_0 (31)
+bravo2.A5_7 48_0 (31)
+bravo2.A6_8 33_2 (31)
+bravo3.A6_7 29_35 (31)
+
+index: 6
+20
+average: 6.0
+bravos:
+bravo2.D2_2 62_20 (20)
+bravo3.D4_4 57_5 (20)
+bravo2.A4_9 57_4 (20)
+bravo3.A4_7 56_3 (20)
+bravo2.D4_3 54_5 (20)
+bravo2.D3_7 54_1 (20)
+bravo3.A2_9 53_1 (20)
+bravo2.A3_7 52_10 (20)
+bravo2.A2_9 52_5 (20)
+bravo3.D2_2 51_10 (20)
+bravo3.A3_4 47_3 (20)
+bravo3.D3_9 45_5 (20)
+
+index: 7
+8
+average: 5.83
+bravos:
+bravo2.D4_5 63_2 (8)
+bravo1.D4_3 62_0 (8)
+bravo1.A4_2 60_2 (8)
+bravo2.D3_10 54_19 (8)
+bravo2.D2_4 54_8 (8)
+bravo3.A3_7 54_3 (8)
+bravo3.D3_6 54_3 (8)
+bravo2.A3_4 53_5 (8)
+bravo3.D2_4 52_3 (8)
+bravo2.A2_7 51_4 (8)
+bravo2.A4_7 48_14 (8)
+bravo3.A2_7 44_7 (8)
+
+index: 8
+23
+average: 5.75
+bravos:
+bravo3.A5_1 62_8 (23)
+bravo3.A6_4 61_0 (23)
+bravo2.A6_4 55_11 (23)
+bravo2.D4_1 54_11 (23)
+bravo3.D6_4 54_0 (23)
+bravo2.A5_1 52_8 (23)
+bravo3.D4_1 49_8 (23)
+bravo3.A4_10 47_8 (23)
+bravo2.D6_8 46_4 (23)
+bravo2.A4_11 42_0 (23)
+bravo3.D5_11 31_0 (23)
+bravo2.D5_13 23_11 (23)
+
+index: 9
+1
+average: 5.67
+bravos:
+bravo2.A1_1 59_5 (1)
+bravo3.A1_1 59_5 (1)
+bravo1.D1_1 55_3 (1)
+bravo2.D1_8 54_3 (1)
+bravo1.A1_1 50_5 (1)
+bravo3.D1_8 48_13 (1)
+
+index: 10
+13
+average: 5.38
+bravos:
+bravo3.D3_8 69_10 (13)
+bravo2.D3_6 66_10 (13)
+bravo2.A3_8 53_3 (13)
+bravo2.A5_3 53_1 (13)
+bravo1.A4_1 51_3 (13)
+bravo3.D4_10 51_1 (13)
+bravo1.D4_4 50_9 (13)
+bravo3.A3_5 50_1 (13)
+bravo3.A4_1 50_1 (13)
+bravo3.D5_3 50_1 (13)
+bravo2.A4_1 49_1 (13)
+bravo2.D5_11 49_0 (13)
+bravo2.D4_11 44_6 (13)
+bravo3.A5_9 41_17 (13)
+bravo2.D6_3 40_22 (13)
+bravo2.A6_9 39_0 (13)
+
+index: 11
+12
+average: 5.36
+bravos:
+bravo2.D4_10 62_4 (12)
+bravo2.D2_3 61_1 (12)
+bravo3.A2_8 59_4 (12)
+bravo2.A4_2 58_1 (12)
+bravo3.D2_3 55_1 (12)
+bravo2.A5_8 54_4 (12)
+bravo3.D4_6 53_0 (12)
+bravo2.A2_8 52_12 (12)
+bravo3.A4_5 50_10 (12)
+bravo2.A3_2 50_0 (12)
+bravo2.D3_12 49_9 (12)
+bravo3.D3_12 47_16 (12)
+bravo3.A3_1 47_1 (12)
+bravo2.D5_6 46_12 (12)
+
+index: 12
+25
+average: 5.12
+bravos:
+bravo3.A5_3 57_12 (25)
+bravo3.D5_9 54_4 (25)
+bravo3.D6_3 51_14 (25)
+bravo2.D6_5 49_1 (25)
+bravo3.A6_5 48_2 (25)
+bravo2.D5_9 46_4 (25)
+bravo2.A5_5 44_1 (25)
+bravo2.A6_7 33_3 (25)
+
+index: 13
+11
+average: 4.89
+bravos:
+bravo2.D1_1 62_3 (11)
+bravo2.A2_4 62_1 (11)
+bravo3.D1_1 61_5 (11)
+bravo2.D4_7 60_6 (11)
+bravo3.A4_8 53_12 (11)
+bravo3.D4_3 53_10 (11)
+bravo3.A2_3 52_5 (11)
+bravo2.A4_5 52_4 (11)
+bravo2.D2_7 52_3 (11)
+bravo1.A3_5 52_1 (11)
+bravo3.D2_8 52_1 (11)
+bravo2.D3_13 52_0 (11)
+bravo3.A3_2 49_1 (11)
+bravo1.D3_1 49_0 (11)
+bravo2.A3_1 45_1 (11)
+bravo3.A1_8 44_10 (11)
+bravo2.A1_8 43_16 (11)
+bravo3.D3_11 41_9 (11)
+
+index: 14
+6
+average: 4.42
+bravos:
+bravo2.D2_6 61_3 (6)
+bravo2.D1_4 58_17 (6)
+bravo2.A2_5 58_7 (6)
+bravo2.A1_5 57_3 (6)
+bravo3.D1_4 56_3 (6)
+bravo2.A3_6 55_1 (6)
+bravo3.A1_5 54_3 (6)
+bravo1.D3_2 53_5 (6)
+bravo3.D2_5 48_3 (6)
+bravo1.A3_4 47_3 (6)
+bravo2.D3_8 47_2 (6)
+bravo3.A2_6 43_3 (6)
+
+index: 15
+10
+average: 4.39
+bravos:
+bravo3.A2_4 62_1 (10)
+bravo3.A4_9 62_0 (10)
+bravo3.D4_2 60_3 (10)
+bravo2.D4_2 56_3 (10)
+bravo2.A3_5 55_3 (10)
+bravo3.A3_3 54_4 (10)
+bravo2.A2_6 54_3 (10)
+bravo2.D3_9 52_5 (10)
+bravo1.A3_2 52_1 (10)
+bravo3.D3_10 51_3 (10)
+bravo1.D3_4 49_17 (10)
+bravo3.D1_2 49_1 (10)
+bravo3.D2_7 47_9 (10)
+bravo2.A4_10 45_6 (10)
+bravo2.A1_7 44_6 (10)
+bravo2.D2_5 44_5 (10)
+bravo3.A1_7 43_6 (10)
+bravo2.D1_2 38_3 (10)
+
+index: 16
+22
+average: 4.21
+bravos:
+bravo2.A5_6 60_0 (22)
+bravo3.A5_4 59_0 (22)
+bravo3.D4_8 58_1 (22)
+bravo3.D5_8 54_3 (22)
+bravo2.A4_4 53_1 (22)
+bravo3.A4_3 48_4 (22)
+bravo1.A5_5 48_3 (22)
+bravo2.D6_2 46_17 (22)
+bravo3.A6_6 46_4 (22)
+bravo2.D4_8 46_1 (22)
+bravo1.D5_2 45_1 (22)
+bravo2.D5_8 45_1 (22)
+bravo3.D6_2 44_17 (22)
+bravo2.A6_10 23_6 (22)
+
+index: 17
+15
+average: 3.83
+bravos:
+bravo3.D4_5 57_3 (15)
+bravo2.D4_4 54_0 (15)
+bravo2.A4_8 53_3 (15)
+bravo3.A4_6 52_0 (15)
+bravo2.D5_3 51_14 (15)
+bravo2.A5_11 32_3 (15)
+
+index: 18
+5
+average: 3.58
+bravos:
+bravo3.D1_3 68_17 (5)
+bravo3.D3_2 60_7 (5)
+bravo3.D2_1 60_2 (5)
+bravo2.D2_1 59_2 (5)
+bravo2.D1_3 59_1 (5)
+bravo2.A1_6 57_1 (5)
+bravo3.A1_6 56_1 (5)
+bravo2.A2_10 55_1 (5)
+bravo2.A3_11 48_5 (5)
+bravo3.A3_11 46_3 (5)
+bravo2.D3_3 46_0 (5)
+bravo3.A2_10 43_3 (5)
+
+index: 19
+7
+average: 3.5
+bravos:
+bravo3.A1_4 64_10 (7)
+bravo2.D1_5 62_5 (7)
+bravo2.A1_4 61_8 (7)
+bravo1.A2_3 60_1 (7)
+bravo2.D2_9 59_1 (7)
+bravo3.A3_6 58_10 (7)
+bravo3.D3_7 58_0 (7)
+bravo1.A4_3 56_6 (7)
+bravo2.A3_3 55_1 (7)
+bravo3.D1_5 55_0 (7)
+bravo1.D3_3 54_2 (7)
+bravo3.D2_9 53_3 (7)
+bravo3.A2_2 51_5 (7)
+bravo2.D3_11 51_3 (7)
+bravo2.A2_2 50_0 (7)
+bravo1.A3_3 49_1 (7)
+bravo1.D2_1 46_4 (7)
+bravo1.D4_2 46_3 (7)
+
+index: 20
+18
+average: 3.3
+bravos:
+bravo2.A5_2 62_8 (18)
+bravo2.A6_6 57_1 (18)
+bravo3.A4_2 57_1 (18)
+bravo2.D6_6 55_0 (18)
+bravo3.D5_10 52_1 (18)
+bravo3.D4_9 48_8 (18)
+bravo3.A5_2 47_8 (18)
+bravo2.A4_3 43_6 (18)
+bravo2.D4_9 41_0 (18)
+bravo2.D5_12 33_0 (18)
+
+index: 21
+16
+average: 3.25
+bravos:
+bravo2.D3_1 70_6 (16)
+bravo3.D3_1 54_6 (16)
+bravo3.A3_12 53_0 (16)
+bravo2.A3_13 49_1 (16)
+
+index: 22
+14
+average: 3.21
+bravos:
+bravo1.D4_1 62_1 (14)
+bravo2.A5_4 59_2 (14)
+bravo1.A5_4 58_0 (14)
+bravo2.A6_5 56_0 (14)
+bravo1.A4_4 53_4 (14)
+bravo3.A5_8 52_4 (14)
+bravo1.D5_3 50_2 (14)
+bravo2.D5_10 49_4 (14)
+bravo2.D6_7 48_2 (14)
+bravo2.D3_2 48_1 (14)
+bravo3.D3_3 46_0 (14)
+bravo3.A3_10 45_24 (14)
+bravo3.D5_4 45_1 (14)
+bravo2.A3_12 40_0 (14)
+
+index: 23
+21
+average: 2.86
+bravos:
+bravo3.A5_6 66_3 (21)
+bravo2.A4_6 63_0 (21)
+bravo3.D4_7 59_2 (21)
+bravo3.D3_5 57_2 (21)
+bravo2.A3_9 56_12 (21)
+bravo3.A3_8 56_0 (21)
+bravo2.D4_6 55_2 (21)
+bravo2.D5_5 49_1 (21)
+bravo2.D3_5 48_2 (21)
+bravo3.A4_4 47_4 (21)
+bravo2.A5_9 47_1 (21)
+bravo3.D5_6 45_2 (21)
+bravo2.D6_1 43_2 (21)
+bravo2.A6_11 17_7 (21)
+
+index: 24
+3
+average: 2.56
+bravos:
+bravo2.A3_10 60_3 (3)
+bravo1.A2_2 59_2 (3)
+bravo1.D2_2 58_0 (3)
+bravo3.D2_10 56_5 (3)
+bravo3.D3_4 56_4 (3)
+bravo2.A1_2 55_2 (3)
+bravo2.A2_1 55_2 (3)
+bravo3.A1_2 54_2 (3)
+bravo3.A2_1 54_0 (3)
+bravo2.D3_4 53_4 (3)
+bravo3.A3_9 52_5 (3)
+bravo2.D2_10 51_0 (3)
+bravo2.D1_7 50_4 (3)
+bravo1.D3_5 46_2 (3)
+bravo3.D1_7 45_2 (3)
+bravo1.A3_1 42_4 (3)
+
+index: 25
+2
+average: 2.5
+bravos:
+bravo3.A2_5 67_5 (2)
+bravo3.D2_6 63_4 (2)
+bravo3.A1_3 62_0 (2)
+bravo2.D1_6 59_0 (2)
+bravo2.A1_3 58_0 (2)
+bravo2.D2_8 54_3 (2)
+bravo3.D1_6 53_6 (2)
+bravo1.D2_3 53_2 (2)
+bravo1.A2_1 53_0 (2)
+bravo2.A2_3 46_5 (2)
+
+index: 26
+30
+average: 0.5
+bravos:
+bravo2.D5_2 55_0 (30)
+bravo3.D5_2 50_0 (30)
+bravo3.A5_10 32_1 (30)
+bravo2.A5_12 26_1 (30)
+
+index: 27
+29
+average: -1
+bravos:
+
+index: 28
+28
+average: -1
+bravos:
+
+index: 29
+24
+average: -1
+bravos:
+
+index: 30
+19
+average: -1
+bravos:
+
+index: 31
+17
+average: -1
+bravos:
+
+index: 32
+9
+average: -1
+bravos:
+
+index: 33
+4
+average: -1
+bravos:
+
