@@ -1,5 +1,85 @@
+sorted balls
+[33, 19, 5, 1, 6, 11, 32, 29, 17, 14, 22, 21, 16, 7, 30, 12, 27, 25, 13, 20, 26, 2, 31, 15, 28, 24, 23, 18, 10, 9, 8, 4, 3]
+ball:19
+average: 9.38
+bravos:
+bravo2.D2_2 63_22 (19)
+bravo2.A3_10 61_5 (19)
+bravo3.D2_1 61_4 (19)
+bravo3.D3_5 58_4 (19)
+bravo3.A2_9 54_3 (19)
+bravo2.A2_9 53_7 (19)
+bravo2.D3_5 49_4 (19)
+bravo3.A3_10 46_26 (19)
+ball:17
+average: 5.78
+bravos:
+bravo2.D1_1 63_5 (17)
+bravo2.D4_7 61_8 (17)
+bravo3.D4_8 59_3 (17)
+bravo3.A3_3 55_6 (17)
+bravo2.A2_6 55_5 (17)
+bravo2.A3_4 54_7 (17)
+bravo3.D2_4 53_5 (17)
+bravo3.A4_6 53_2 (17)
+bravo2.D3_11 52_5 (17)
+bravo2.A4_7 49_16 (17)
+bravo1.A2_8 49_0 (17)
+bravo1.D3_10 49_0 (17)
+bravo1.A3_4 48_5 (17)
+bravo3.D3_12 48_1 (17)
+bravo1.D2_1 47_6 (17)
+bravo2.D2_5 45_7 (17)
+bravo2.A1_8 44_18 (17)
+bravo3.A2_6 44_5 (17)
+ball:30
+average: 4.6
+bravos:
+bravo2.A5_2 63_10 (30)
+bravo3.D6_4 56_0 (30)
+bravo2.A6_3 52_1 (30)
+bravo1.D5_3 51_4 (30)
+bravo2.D6_5 51_0 (30)
+bravo2.D5_7 50_11 (30)
+bravo3.A6_3 50_1 (30)
+bravo1.A5_5 49_5 (30)
+bravo3.A5_2 48_10 (30)
+bravo3.D5_6 46_4 (30)
+ball:12
+average: 4.27
+bravos:
+bravo2.A4_6 64_2 (12)
+bravo3.A4_9 63_2 (12)
+bravo3.D1_1 62_7 (12)
+bravo1.A2_3 61_3 (12)
+bravo2.D1_3 60_3 (12)
+bravo3.D4_5 59_0 (12)
+bravo2.A1_6 58_3 (12)
+bravo2.D3_14 58_3 (12)
+bravo3.A1_6 57_3 (12)
+bravo1.D2_6 56_2 (12)
+bravo2.D2_8 55_5 (12)
+bravo1.A4_4 54_6 (12)
+bravo3.A2_3 53_7 (12)
+bravo1.A3_2 53_3 (12)
+bravo1.D3_12 52_4 (12)
+bravo1.D4_8 48_11 (12)
+bravo3.D2_7 48_11 (12)
+bravo3.A3_1 48_1 (12)
+bravo2.A2_3 47_7 (12)
+bravo2.D4_8 47_3 (12)
+bravo3.D3_14 46_5 (12)
+bravo2.A3_1 46_3 (12)
+ball:15
+average: 1.5
+bravos:
+bravo1.D4_1 63_3 (15)
+bravo1.A4_11 47_0 (15)
+ball:8
+average: -1
+bravos:
 index: 1
-33
+ball:33
 average: 9.67
 bravos:
 bravo3.D6_5 65_1 (33)
@@ -10,7 +90,7 @@ bravo2.D6_6 55_2 (33)
 bravo1.D6_4 40_19 (33)
 
 index: 2
-19
+ball:19
 average: 9.38
 bravos:
 bravo2.D2_2 63_22 (19)
@@ -23,7 +103,7 @@ bravo2.D3_5 49_4 (19)
 bravo3.A3_10 46_26 (19)
 
 index: 3
-5
+ball:5
 average: 9.17
 bravos:
 bravo3.D1_3 68_19 (5)
@@ -34,7 +114,7 @@ bravo1.D2_4 47_0 (5)
 bravo1.A2_5 46_7 (5)
 
 index: 4
-1
+ball:1
 average: 8.67
 bravos:
 bravo2.A1_1 59_7 (1)
@@ -45,7 +125,7 @@ bravo1.D1_2 50_18 (1)
 bravo1.A1_1 50_7 (1)
 
 index: 5
-6
+ball:6
 average: 7.33
 bravos:
 bravo2.D3_1 70_8 (6)
@@ -68,7 +148,7 @@ bravo1.D2_7 44_3 (6)
 bravo1.A3_1 42_6 (6)
 
 index: 6
-11
+ball:11
 average: 6.88
 bravos:
 bravo3.A2_5 67_7 (11)
@@ -89,7 +169,7 @@ bravo2.A4_13 38_7 (11)
 bravo2.D1_2 38_5 (11)
 
 index: 7
-32
+ball:32
 average: 6.83
 bravos:
 bravo3.A6_4 61_2 (32)
@@ -106,7 +186,7 @@ bravo2.D5_6 46_1 (32)
 bravo1.D6_3 35_27 (32)
 
 index: 8
-29
+ball:29
 average: 5.9
 bravos:
 bravo3.A5_1 63_0 (29)
@@ -131,7 +211,7 @@ bravo3.D4_12 41_9 (29)
 bravo2.D6_3 40_24 (29)
 
 index: 9
-17
+ball:17
 average: 5.78
 bravos:
 bravo2.D1_1 63_5 (17)
@@ -154,7 +234,7 @@ bravo2.A1_8 44_18 (17)
 bravo3.A2_6 44_5 (17)
 
 index: 10
-14
+ball:14
 average: 5.1
 bravos:
 bravo2.D2_3 61_1 (14)
@@ -169,7 +249,7 @@ bravo1.D3_4 49_19 (14)
 bravo2.D3_2 48_3 (14)
 
 index: 11
-22
+ball:22
 average: 5.0
 bravos:
 bravo3.D4_7 59_4 (22)
@@ -188,7 +268,7 @@ bravo3.A3_11 46_5 (22)
 bravo1.D4_6 42_8 (22)
 
 index: 12
-21
+ball:21
 average: 5.0
 bravos:
 bravo2.D3_6 66_12 (21)
@@ -207,7 +287,7 @@ bravo1.A4_7 43_3 (21)
 bravo2.A4_11 42_2 (21)
 
 index: 13
-16
+ball:16
 average: 4.94
 bravos:
 bravo1.D4_3 62_2 (16)
@@ -230,7 +310,7 @@ bravo3.D4_13 39_8 (16)
 bravo2.D4_13 38_5 (16)
 
 index: 14
-7
+ball:7
 average: 4.78
 bravos:
 bravo1.D3_8 66_14 (7)
@@ -253,7 +333,7 @@ bravo3.A3_4 47_5 (7)
 bravo3.D3_11 41_11 (7)
 
 index: 15
-30
+ball:30
 average: 4.6
 bravos:
 bravo2.A5_2 63_10 (30)
@@ -268,7 +348,7 @@ bravo3.A5_2 48_10 (30)
 bravo3.D5_6 46_4 (30)
 
 index: 16
-12
+ball:12
 average: 4.27
 bravos:
 bravo2.A4_6 64_2 (12)
@@ -295,7 +375,7 @@ bravo3.D3_14 46_5 (12)
 bravo2.A3_1 46_3 (12)
 
 index: 17
-27
+ball:27
 average: 4.05
 bravos:
 bravo3.D3_8 69_12 (27)
@@ -322,7 +402,7 @@ bravo1.D4_11 40_3 (27)
 bravo2.A6_7 33_5 (27)
 
 index: 18
-25
+ball:25
 average: 3.86
 bravos:
 bravo3.A5_6 66_5 (25)
@@ -341,7 +421,7 @@ bravo1.D5_1 44_0 (25)
 bravo2.D4_9 42_0 (25)
 
 index: 19
-13
+ball:13
 average: 3.71
 bravos:
 bravo2.D5_2 55_2 (13)
@@ -360,7 +440,7 @@ bravo2.A4_3 44_0 (13)
 bravo3.D4_11 43_2 (13)
 
 index: 20
-20
+ball:20
 average: 3.57
 bravos:
 bravo1.A3_8 60_0 (20)
@@ -379,7 +459,7 @@ bravo1.D4_2 47_0 (20)
 bravo2.A4_10 46_0 (20)
 
 index: 21
-26
+ball:26
 average: 3.3
 bravos:
 bravo2.D2_1 59_4 (26)
@@ -394,7 +474,7 @@ bravo2.A4_12 39_7 (26)
 bravo3.A4_11 35_3 (26)
 
 index: 22
-2
+ball:2
 average: 3.3
 bravos:
 bravo1.D2_8 60_2 (2)
@@ -409,7 +489,7 @@ bravo2.D2_10 51_2 (2)
 bravo2.D1_7 50_6 (2)
 
 index: 23
-31
+ball:31
 average: 2.83
 bravos:
 bravo2.D4_5 63_4 (31)
@@ -432,54 +512,54 @@ bravo3.D5_1 41_1 (31)
 bravo1.A6_4 37_2 (31)
 
 index: 24
-15
+ball:15
 average: 1.5
 bravos:
 bravo1.D4_1 63_3 (15)
 bravo1.A4_11 47_0 (15)
 
 index: 25
-28
+ball:28
 average: -1
 bravos:
 
 index: 26
-24
+ball:24
 average: -1
 bravos:
 
 index: 27
-23
+ball:23
 average: -1
 bravos:
 
 index: 28
-18
+ball:18
 average: -1
 bravos:
 
 index: 29
-10
+ball:10
 average: -1
 bravos:
 
 index: 30
-9
+ball:9
 average: -1
 bravos:
 
 index: 31
-8
+ball:8
 average: -1
 bravos:
 
 index: 32
-4
+ball:4
 average: -1
 bravos:
 
 index: 33
-3
+ball:3
 average: -1
 bravos:
 
