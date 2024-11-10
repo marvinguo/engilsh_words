@@ -1268,4 +1268,6 @@ Date,contain10_1,contain10_2,aver_row1,aver_row2,aver_ball1,aver_ball2,same_leve
 20241031,True,False,0,0,0,0,0,3,7,0
 20241103,True,True,0,0,0,0,0,2,4,0
 20241105,False,False,0,0,0,0,0,1,3,0
-20241107,False,False,0,0,0,0,0,0,0,0
+20241107,True,False,0,0,0,0,1,3,5,0
+20241110,True,True,0,0,0,0,0,3,5,0
+20241112,False,False,0,0,0,0,0,0,0,0
