@@ -422,7 +422,7 @@
     "compute_missing_range": [],
     "compute_column": [
         {
-            "checked": false,
+            "checked": true,
             "title": "",
             "table": [
                 [
@@ -1180,7 +1180,13 @@
                     33
                 ]
             ],
-            "items": []
+            "items": [
+                {
+                    "min": 1,
+                    "value": 0,
+                    "max": 6
+                }
+            ]
         }
     ],
     "compute_bravo": {
@@ -1199,14 +1205,48 @@
             "checked": true,
             "checked1": true,
             "min1": 0,
-            "max1": 9,
+            "max1": 8,
             "checked2": false,
             "min2": 0,
             "max2": 0,
             "range1": 0,
             "range2": 0
         },
-        "table": []
+        "table": [
+            1,
+            17,
+            29,
+            22,
+            2,
+            10,
+            30,
+            20,
+            23,
+            27,
+            15,
+            9,
+            19,
+            26,
+            11,
+            7,
+            25,
+            6,
+            18,
+            4,
+            13,
+            3,
+            28,
+            8,
+            12,
+            5,
+            33,
+            31,
+            21,
+            14,
+            32,
+            24,
+            16
+        ]
     },
     "note1": "",
     "note2": ""
