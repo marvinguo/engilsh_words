@@ -170,6 +170,12 @@
             "spin72": 0,
             "spin73": 0
         },
+        "layout8": {
+            "checked": false,
+            "spin81": 0,
+            "spin82": 0,
+            "spin83": 0
+        },
         "red_sum_all": {
             "checked": false,
             "checked1": false,
@@ -1423,6 +1429,72 @@
             "checked1": true,
             "min1": 0,
             "max1": 8,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red1": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red2": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red3": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red4": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red5": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red6": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
             "checked2": false,
             "min2": 0,
             "max2": 0,
