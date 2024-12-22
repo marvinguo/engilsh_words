@@ -1501,6 +1501,138 @@
             "range1": 0,
             "range2": 0
         },
+        "red_sum_all": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_sum16": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_gap16": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_sum25": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_gap25": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_sum34": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_gap12": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_gap23": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_gap34": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_gap45": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "red_gap56": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
+        "need3": {
+            "checked": false,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": false,
+            "min2": 0,
+            "max2": 0,
+            "range1": 0,
+            "range2": 0
+        },
         "table": [
             1,
             17,
@@ -1537,6 +1669,7 @@
             16
         ]
     },
+    "compute_seq": [],
     "note1": "",
     "note2": ""
 }
