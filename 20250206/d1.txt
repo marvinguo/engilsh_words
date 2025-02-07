@@ -2278,11 +2278,11 @@
             "range2": 0
         },
         "red1": {
-            "checked": false,
-            "checked1": false,
+            "checked": true,
+            "checked1": true,
             "min1": 0,
-            "max1": 0,
-            "checked2": true,
+            "max1": 13,
+            "checked2": false,
             "min2": 0,
             "max2": 7,
             "range1": 0,
