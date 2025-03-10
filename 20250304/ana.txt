@@ -1932,7 +1932,339 @@
             28
         ]
     },
-    "compute_seq": [],
+    "compute_seq": [
+        {
+            "checked": true,
+            "title": "bravo1_1",
+            "table": [
+                [
+                    1,
+                    6,
+                    8,
+                    2,
+                    11,
+                    4,
+                    5,
+                    7,
+                    12,
+                    13,
+                    3,
+                    9,
+                    10
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo1_2",
+            "table": [
+                [
+                    13,
+                    11,
+                    12,
+                    8,
+                    6,
+                    15,
+                    7,
+                    2,
+                    9,
+                    10,
+                    4,
+                    5,
+                    3,
+                    17,
+                    14,
+                    16,
+                    18,
+                    19
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo1_3",
+            "table": [
+                [
+                    13,
+                    26,
+                    17,
+                    15,
+                    12,
+                    16,
+                    20,
+                    11,
+                    21,
+                    23,
+                    8,
+                    30,
+                    28,
+                    14,
+                    19,
+                    24,
+                    27,
+                    18,
+                    22,
+                    25,
+                    29,
+                    6,
+                    7,
+                    9,
+                    10
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo1_4",
+            "table": [
+                [
+                    30,
+                    31,
+                    26,
+                    13,
+                    17,
+                    21,
+                    28,
+                    20,
+                    27,
+                    16,
+                    24,
+                    18,
+                    29,
+                    15,
+                    22,
+                    23,
+                    25,
+                    14,
+                    19,
+                    12
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo1_5",
+            "table": [
+                [
+                    32,
+                    31,
+                    30
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo1_6",
+            "table": [
+                [
+                    33,
+                    32
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo2_1",
+            "table": [
+                [
+                    2,
+                    3,
+                    8,
+                    1,
+                    11,
+                    13,
+                    16,
+                    6,
+                    7,
+                    12,
+                    15,
+                    17
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo2_2",
+            "table": [
+                [
+                    3,
+                    8,
+                    13,
+                    15,
+                    16,
+                    2,
+                    17,
+                    6,
+                    12,
+                    7,
+                    18,
+                    26,
+                    11,
+                    23
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo2_3",
+            "table": [
+                [
+                    13,
+                    15,
+                    18,
+                    8,
+                    30,
+                    17,
+                    26,
+                    6,
+                    12,
+                    20,
+                    23,
+                    28,
+                    21,
+                    27
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo2_4",
+            "table": [
+                [
+                    30,
+                    18,
+                    15,
+                    31,
+                    13,
+                    26,
+                    28,
+                    20
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo2_5",
+            "table": [
+                [
+                    32,
+                    31,
+                    30,
+                    18,
+                    15
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        },
+        {
+            "checked": true,
+            "title": "bravo2_6",
+            "table": [
+                [
+                    33,
+                    32,
+                    31,
+                    30,
+                    18
+                ]
+            ],
+            "items": [
+                {
+                    "seq_min": 0,
+                    "seq_max": 10,
+                    "count_min": 1,
+                    "count_max": 1
+                }
+            ]
+        }
+    ],
     "compute_god": [
         {
             "checked": true,

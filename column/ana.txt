@@ -1413,7 +1413,7 @@
         }
     ],
     "compute_bravo": {
-        "min_gap": {
+        "min_gap1": {
             "checked": true,
             "checked1": false,
             "min1": 0,
@@ -1424,25 +1424,58 @@
             "range1": 0,
             "range2": 0
         },
-        "max_gap": {
+        "min_gap2": {
             "checked": true,
-            "checked1": true,
+            "checked1": false,
             "min1": 0,
-            "max1": 8,
-            "checked2": false,
-            "min2": 0,
-            "max2": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 1,
+            "max2": 2,
+            "range1": 0,
+            "range2": 0
+        },
+        "min_gap3": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 1,
+            "max2": 2,
+            "range1": 0,
+            "range2": 0
+        },
+        "min_gap4": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 1,
+            "max2": 2,
+            "range1": 0,
+            "range2": 0
+        },
+        "min_gap5": {
+            "checked": true,
+            "checked1": false,
+            "min1": 0,
+            "max1": 0,
+            "checked2": true,
+            "min2": 1,
+            "max2": 2,
             "range1": 0,
             "range2": 0
         },
         "red1": {
-            "checked": false,
+            "checked": true,
             "checked1": false,
             "min1": 0,
             "max1": 0,
-            "checked2": false,
+            "checked2": true,
             "min2": 0,
-            "max2": 0,
+            "max2": 7,
             "range1": 0,
             "range2": 0
         },
@@ -1491,13 +1524,13 @@
             "range2": 0
         },
         "red6": {
-            "checked": false,
+            "checked": true,
             "checked1": false,
             "min1": 0,
             "max1": 0,
-            "checked2": false,
-            "min2": 0,
-            "max2": 0,
+            "checked2": true,
+            "min2": 27,
+            "max2": 33,
             "range1": 0,
             "range2": 0
         },
@@ -1546,13 +1579,13 @@
             "range2": 0
         },
         "red_gap25": {
-            "checked": false,
+            "checked": true,
             "checked1": false,
             "min1": 0,
             "max1": 0,
-            "checked2": false,
+            "checked2": true,
             "min2": 0,
-            "max2": 0,
+            "max2": 8,
             "range1": 0,
             "range2": 0
         },
