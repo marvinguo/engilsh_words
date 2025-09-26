@@ -4,9 +4,8 @@ A curated list of **high-frequency English words** with pronunciation, meanings,
 We also include word-root mini decks and JSON/CSV datasets for learning apps.
 
 👉 Explore more on our website:
-- **IELTS Speaking Hub**: https://lexitalkai.com/web/en/ielts-speaking/
-- **Podcast Hub**: https://lexitalkai.com/web/en/podcasts/
-- **Word Roots**: https://lexitalkai.com/web/en/word-roots/
+- **Podcast Hub**: https://www.lexitalkai.com/web/en/podcasts
+- **Word Roots**: https://www.lexitalkai.com/web/en/word
 
 ## Datasets
 - `data/wordlist.csv` – core words with IPA, meanings, examples, audio url  
